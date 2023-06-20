@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio-02.js",
+  "scripts": {
+    "resultado": "node ejercicio-02.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "declaracion",
+    "de",
+    "variables"
+  ],
+  "author": "jesus varguez",
+  "license": "ISC"
+}

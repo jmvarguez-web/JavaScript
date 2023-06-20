@@ -20,7 +20,7 @@ undefined;
 // null, undefined, false, 0 ==> Todas son Falsy
 console.log(null === undefined);
 
-if (true) {
+if (false) {
   console.log("cumple");
 } else {
   console.log("no cumple");
